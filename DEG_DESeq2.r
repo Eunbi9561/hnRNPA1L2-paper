@@ -1,4 +1,4 @@
-## Author: Dr Susan Corley through bioinformatics consultaton
+## Author: Dr. Eunbi LEE
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
