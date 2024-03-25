@@ -18,6 +18,13 @@ This script contains the basic code used to analyze the RNA sequencing and RIP s
 This script contains the basic code used to analyze the differential expression genes from RNA sequencing data.
 
 
+## ChIPpeakAnno.r 
+
+* Annotation the peaks and finding overlap peaks using ChIPpeakAnno R package
+
+This script contains the basic code used to analyze the RIP sequencing data.
+
+
 
 ## Authorship note
 The code here was written by Dr. Eunbi Lee
